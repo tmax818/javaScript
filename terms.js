@@ -11,5 +11,9 @@ const terms = [
     {
         term: "values",
         def: "chunks of bits"
+    },
+    {
+        term: "primative types",
+        def: "Number, String, Boolean, Null, Undefined, Symbol and BigInt"
     }
 ]
